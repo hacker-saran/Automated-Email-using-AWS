@@ -1,1 +1,1 @@
-# Automated-Email-using-AWS
+# Automated-Email-using-AWS-Lambda
